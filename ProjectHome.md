@@ -1,0 +1,1 @@
+Adds integration into Google Chrome allowing 1-click nzb downloads for various websites.
